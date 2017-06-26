@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>netzap digital</title>
+    <link>http://netzap.in/</link>
+    <description>Recent content on netzap digital</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Jun 2017 09:56:42 +0530</lastBuildDate>
+    
+	<atom:link href="http://netzap.in/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Index</title>
+      <link>http://netzap.in/</link>
+      <pubDate>Sun, 25 Jun 2017 09:56:42 +0530</pubDate>
+      
+      <guid>http://netzap.in/</guid>
+      <description>This is a test</description>
+    </item>
+    
+  </channel>
+</rss>
